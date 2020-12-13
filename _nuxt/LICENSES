@@ -22,6 +22,18 @@
  * Released under the MIT License.
  */
 
+/*!
+ * vuex v3.6.0
+ * (c) 2020 Evan You
+ * @license MIT
+ */
+
+/**
+  * vue-class-component v7.2.6
+  * (c) 2015-present Evan You
+  * @license MIT
+  */
+
 //! Copyright (c) JS Foundation and other contributors
 
 //! github.com/moment/moment-timezone
